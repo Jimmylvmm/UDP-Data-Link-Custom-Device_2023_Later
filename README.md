@@ -8,7 +8,7 @@ LabVIEW 2023
 
 ### Built Availability ###
 
-Builds of VeriStand 2023 and 2024 are available under Releases.
+Builds of VeriStand 2023 and later versions are available under Releases.
 
 ### Quality, Limitations ###
 
